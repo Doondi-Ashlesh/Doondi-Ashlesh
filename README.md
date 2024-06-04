@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, Doondi Ashlesh here </h1>
-<h3 align="center">I'm a Student pursuing my interests in the Tech world!</h3>
+<h3 align="center">Pursuing my interests in the Tech world!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
