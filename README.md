@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, Doondi Ashlesh here </h1>
 <h3 align="center">Pursuing my interests in the Tech world!</h3>
 
-(https://github.com/Doondi-Ashlesh/Doondi-Ashlesh/blob/main/138969.jpg)
+![Gamer](https://github.com/Doondi-Ashlesh/Doondi-Ashlesh/blob/main/138969.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
