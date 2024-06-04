@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/doondi ashlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doondi ashlesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/doondi-ashlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doondi ashlesh" height="30" width="40" /></a>
 <a href="https://instagram.com/doondi_a743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doondi_a743" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/doondi_ashlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doondi_ashlesh" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/EFG2Us7B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EFG2Us7B" height="30" width="40" /></a>
