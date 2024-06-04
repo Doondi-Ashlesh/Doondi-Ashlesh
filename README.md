@@ -1,6 +1,8 @@
 <h1 align="center">Hi There👋, Doondi Ashlesh here </h1>
 <h3 align="center">Pursuing my interests in the Tech world!</h3>
 
+(https://github.com/Doondi-Ashlesh/Doondi-Ashlesh/blob/main/138969.jpg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/doondi ashlesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doondi ashlesh" height="30" width="40" /></a>
