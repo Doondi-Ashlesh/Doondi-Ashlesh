@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me
 
 * 🚀 Software Engineer passionate about building intelligent systems
-* 🧠 Interested in **AI, Computer Vision, and scalable backend systems**
-* 💻 Experienced with **MERN Stack development**
+* 🧠 Interested in **Engineering, AI, Software, Anything that takes the mind for a ride**
+* 💻 Experienced with **Software development**
 * 🔬 Building AI driven platforms and real-world problem solving systems
 * 🌍 Always exploring new technologies and ideas
 
@@ -34,32 +34,6 @@
 <a href="https://www.leetcode.com/doondi_ashlesh" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
-
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
 
 </p>
 
@@ -94,17 +68,11 @@
 ### 🧠 Current Interests
 
 * Artificial Intelligence
-* Computer Vision
+* Physical AI
+* AI Agents
+* Large language Models
 * Large Scale Distributed Systems
 * Backend Architecture
-* AI Powered SaaS Platforms
-
----
-
-### 🚀 Projects
-
-* **FraudSight AI** – Intelligent fraud investigation automation platform
-* **CampusOps** – Compliance and operations SaaS for institutions
 
 ---
 
