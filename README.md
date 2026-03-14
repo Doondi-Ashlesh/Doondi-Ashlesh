@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doondi Ashlesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI+Developer;Computer+Vision+Explorer;MERN+Stack+Developer;Building+Intelligent+Systems&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI+Engineer;Computational+Intelligence+Explorer;Software+Developer;Building+Intelligent+Systems;Building+Random+stuff&center=true&width=500&height=50">
 </p>
 
 <p align="center">
