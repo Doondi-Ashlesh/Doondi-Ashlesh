@@ -65,6 +65,14 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Doondi-Ashlesh&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
 ### 🧠 Current Interests
 
 * Artificial Intelligence
